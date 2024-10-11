@@ -3,7 +3,8 @@ export default {
   REGISTER: 'Register',
   FORGOT_PASSWORD: 'Forgot Password',
 
-  ONBOARDING: 'onBoarding',
+  ONBOARDING: 'OnBorading',
+  AUTHNAV: 'AuthNav',
 
   HOME: 'Home',
   HOME_TAB: 'Home Tab',

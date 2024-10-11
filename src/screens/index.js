@@ -11,4 +11,4 @@ export {default as Profile} from './home/Profile';
 export {default as Login} from './auth/Login';
 export {default as Register} from './auth/Register';
 
-export {default as onBoarding} from './onBoarding/onBording';
+export {default as Onboarding} from './onBoarding/OnBorading';
